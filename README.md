@@ -1,3 +1,10 @@
+## 🚧 Status do projeto
+
+**Em desenvolvimento.**
+
+O DataPulse AI está em evolução como um projeto prático de portfólio.
+Novas funcionalidades, análises e melhorias serão adicionadas progressivamente.
+
 # 📊 DataPulse AI
 
 > Projeto de portfólio de **Análise de Dados** utilizando Python, Pandas, SQL e IA generativa.
