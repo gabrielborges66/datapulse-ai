@@ -2,6 +2,27 @@
 
 > Projeto de portfólio de **Análise de Dados** utilizando Python, Pandas, SQL e IA generativa.
 
+## 🚧 Status do projeto
+
+**Em desenvolvimento.**
+
+## 📸 Demonstração
+
+### Dashboard principal
+
+![Dashboard principal](assets/screenshots/dashboard-topo.png)
+
+### Análise de anomalias
+
+![Análise de anomalias](assets/screenshots/dashboard-anomalias.png)
+
+### Resumo executivo com IA
+
+![Resumo executivo com IA](assets/screenshots/dashboard-ia.png)
+
+O DataPulse AI está em evolução como um projeto prático de portfólio.
+Novas funcionalidades, análises e melhorias serão adicionadas progressivamente.
+
 ## Sobre o projeto
 
 O **DataPulse AI** transforma dados sintéticos de vendas em indicadores e análises para apoiar decisões de negócio.
@@ -65,3 +86,5 @@ datapulse-ai/
 ├── .env.example
 ├── .gitignore
 └── README.md
+
+
