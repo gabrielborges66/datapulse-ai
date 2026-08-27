@@ -1,0 +1,205 @@
+order_id,date,customer_id,region,channel,segment,product,category,quantity,unit_price,unit_cost,discount,revenue,cost,margin,month,upper_limit,reason
+23,2026-01-06,170,Campinas,Restaurante,Novo,Frango Grelhado,Pratos,21,59.9,27.0,0.0,1257.9,567.0,690.9,2026-01,142.2,Receita acima do limite superior do IQR
+1682,2026-06-26,117,Rio de Janeiro,Retirada,Novo,Prato Grelhado,Pratos,18,69.9,32.0,0.05,1195.29,576.0,619.29,2026-06,142.2,Receita acima do limite superior do IQR
+309,2026-04-28,172,Belo Horizonte,Delivery,Recorrente,Prato Grelhado,Pratos,17,69.9,32.0,0.05,1128.89,544.0,584.89,2026-04,142.2,Receita acima do limite superior do IQR
+1597,2026-02-06,391,Campinas,Restaurante,VIP,Frango Grelhado,Pratos,19,59.9,27.0,0.05,1081.19,513.0,568.19,2026-02,142.2,Receita acima do limite superior do IQR
+1032,2026-02-02,218,Rio de Janeiro,Delivery,Novo,Salada,Pratos,25,42.9,18.0,0.05,1018.88,450.0,568.88,2026-02,142.2,Receita acima do limite superior do IQR
+812,2026-04-29,214,Belo Horizonte,Delivery,Novo,Frango Grelhado,Pratos,15,59.9,27.0,0.0,898.5,405.0,493.5,2026-04,142.2,Receita acima do limite superior do IQR
+826,2026-01-12,95,Campinas,Restaurante,VIP,Prato Grelhado,Pratos,12,69.9,32.0,0.0,838.8,384.0,454.8,2026-01,142.2,Receita acima do limite superior do IQR
+486,2026-05-31,261,Belo Horizonte,Retirada,VIP,Burger Clássico,Pratos,16,54.9,25.0,0.05,834.48,400.0,434.48,2026-05,142.2,Receita acima do limite superior do IQR
+1629,2026-01-27,360,Rio de Janeiro,Retirada,Novo,Prato Grelhado,Pratos,12,69.9,32.0,0.05,796.86,384.0,412.86,2026-01,142.2,Receita acima do limite superior do IQR
+682,2026-03-01,410,São Paulo,Delivery,VIP,Salada,Pratos,17,42.9,18.0,0.0,729.3,306.0,423.3,2026-03,142.2,Receita acima do limite superior do IQR
+1048,2026-04-13,249,Campinas,Retirada,Recorrente,Frango Grelhado,Pratos,12,59.9,27.0,0.05,682.86,324.0,358.86,2026-04,142.2,Receita acima do limite superior do IQR
+1046,2026-04-16,85,Rio de Janeiro,Restaurante,Recorrente,Prato Grelhado,Pratos,10,69.9,32.0,0.05,664.05,320.0,344.05,2026-04,142.2,Receita acima do limite superior do IQR
+1697,2026-06-25,289,São Paulo,Delivery,Novo,Frango Grelhado,Pratos,11,59.9,27.0,0.0,658.9,297.0,361.9,2026-06,142.2,Receita acima do limite superior do IQR
+1027,2026-06-30,145,Rio de Janeiro,Retirada,Novo,Burger Clássico,Pratos,12,54.9,25.0,0.0,658.8,300.0,358.8,2026-06,142.2,Receita acima do limite superior do IQR
+1010,2026-04-13,59,Rio de Janeiro,Restaurante,Novo,Burger Clássico,Pratos,13,54.9,25.0,0.1,642.33,325.0,317.33,2026-04,142.2,Receita acima do limite superior do IQR
+515,2026-06-23,294,São Paulo,Restaurante,Novo,Sobremesa Chocolate,Sobremesa,24,24.9,9.0,0.0,597.6,216.0,381.6,2026-06,142.2,Receita acima do limite superior do IQR
+576,2026-05-08,129,Rio de Janeiro,Retirada,Recorrente,Burger Clássico,Pratos,10,54.9,25.0,0.0,549.0,250.0,299.0,2026-05,142.2,Receita acima do limite superior do IQR
+766,2026-02-19,113,Rio de Janeiro,Retirada,VIP,Prato Grelhado,Pratos,8,69.9,32.0,0.1,503.28,256.0,247.28,2026-02,142.2,Receita acima do limite superior do IQR
+1402,2026-01-07,66,Belo Horizonte,Retirada,Recorrente,Burger Clássico,Pratos,9,54.9,25.0,0.0,494.1,225.0,269.1,2026-01,142.2,Receita acima do limite superior do IQR
+1553,2026-07-09,409,Campinas,Retirada,Novo,Prato Grelhado,Pratos,7,69.9,32.0,0.0,489.3,224.0,265.3,2026-07,142.2,Receita acima do limite superior do IQR
+901,2026-06-10,67,Belo Horizonte,Retirada,Recorrente,Salada,Pratos,11,42.9,18.0,0.1,424.71,198.0,226.71,2026-06,142.2,Receita acima do limite superior do IQR
+1068,2026-05-06,89,Campinas,Restaurante,Novo,Prato Grelhado,Pratos,6,69.9,32.0,0.0,419.4,192.0,227.4,2026-05,142.2,Receita acima do limite superior do IQR
+1226,2026-06-05,393,São Paulo,Delivery,Novo,Prato Grelhado,Pratos,6,69.9,32.0,0.0,419.4,192.0,227.4,2026-06,142.2,Receita acima do limite superior do IQR
+1747,2026-01-28,266,Rio de Janeiro,Retirada,Novo,Prato Grelhado,Pratos,6,69.9,32.0,0.0,419.4,192.0,227.4,2026-01,142.2,Receita acima do limite superior do IQR
+474,2026-06-30,247,São Paulo,Delivery,Recorrente,Frango Grelhado,Pratos,7,59.9,27.0,0.0,419.3,189.0,230.3,2026-06,142.2,Receita acima do limite superior do IQR
+413,2026-03-26,153,Rio de Janeiro,Retirada,VIP,Frango Grelhado,Pratos,7,59.9,27.0,0.0,419.3,189.0,230.3,2026-03,142.2,Receita acima do limite superior do IQR
+1419,2026-06-12,35,Campinas,Retirada,Novo,Prato Grelhado,Pratos,6,69.9,32.0,0.05,398.43,192.0,206.43,2026-06,142.2,Receita acima do limite superior do IQR
+451,2026-02-15,251,Campinas,Restaurante,VIP,Sobremesa Chocolate,Sobremesa,16,24.9,9.0,0.0,398.4,144.0,254.4,2026-02,142.2,Receita acima do limite superior do IQR
+1783,2026-02-25,335,São Paulo,Delivery,Recorrente,Frango Grelhado,Pratos,7,59.9,27.0,0.05,398.33,189.0,209.33,2026-02,142.2,Receita acima do limite superior do IQR
+1506,2026-07-21,173,São Paulo,Delivery,Novo,Burger Clássico,Pratos,7,54.9,25.0,0.0,384.3,175.0,209.3,2026-07,142.2,Receita acima do limite superior do IQR
+382,2026-01-24,16,Rio de Janeiro,Restaurante,Recorrente,Frango Grelhado,Pratos,6,59.9,27.0,0.0,359.4,162.0,197.4,2026-01,142.2,Receita acima do limite superior do IQR
+1131,2026-03-18,374,Rio de Janeiro,Restaurante,Recorrente,Frango Grelhado,Pratos,6,59.9,27.0,0.0,359.4,162.0,197.4,2026-03,142.2,Receita acima do limite superior do IQR
+1247,2026-03-31,9,São Paulo,Retirada,Recorrente,Frango Grelhado,Pratos,6,59.9,27.0,0.0,359.4,162.0,197.4,2026-03,142.2,Receita acima do limite superior do IQR
+100,2026-01-24,296,São Paulo,Retirada,VIP,Frango Grelhado,Pratos,6,59.9,27.0,0.0,359.4,162.0,197.4,2026-01,142.2,Receita acima do limite superior do IQR
+1672,2026-02-06,246,São Paulo,Delivery,Recorrente,Frango Grelhado,Pratos,6,59.9,27.0,0.0,359.4,162.0,197.4,2026-02,142.2,Receita acima do limite superior do IQR
+1041,2026-02-21,292,Campinas,Delivery,VIP,Entrada Especial,Entrada,9,39.9,18.0,0.0,359.1,162.0,197.1,2026-02,142.2,Receita acima do limite superior do IQR
+346,2026-04-27,82,Campinas,Retirada,VIP,Entrada Especial,Entrada,9,39.9,18.0,0.0,359.1,162.0,197.1,2026-04,142.2,Receita acima do limite superior do IQR
+288,2026-01-09,35,Belo Horizonte,Restaurante,Novo,Prato Grelhado,Pratos,5,69.9,32.0,0.0,349.5,160.0,189.5,2026-01,142.2,Receita acima do limite superior do IQR
+425,2026-02-07,211,Rio de Janeiro,Restaurante,VIP,Prato Grelhado,Pratos,5,69.9,32.0,0.0,349.5,160.0,189.5,2026-02,142.2,Receita acima do limite superior do IQR
+1785,2026-02-22,8,São Paulo,Retirada,Recorrente,Prato Grelhado,Pratos,5,69.9,32.0,0.0,349.5,160.0,189.5,2026-02,142.2,Receita acima do limite superior do IQR
+574,2026-02-16,222,Rio de Janeiro,Restaurante,Novo,Burger Clássico,Pratos,7,54.9,25.0,0.1,345.87,175.0,170.87,2026-02,142.2,Receita acima do limite superior do IQR
+550,2026-05-04,338,Belo Horizonte,Retirada,VIP,Salada,Pratos,8,42.9,18.0,0.0,343.2,144.0,199.2,2026-05,142.2,Receita acima do limite superior do IQR
+505,2026-03-03,132,Belo Horizonte,Delivery,Novo,Frango Grelhado,Pratos,6,59.9,27.0,0.05,341.43,162.0,179.43,2026-03,142.2,Receita acima do limite superior do IQR
+210,2026-03-13,288,Belo Horizonte,Restaurante,VIP,Frango Grelhado,Pratos,6,59.9,27.0,0.05,341.43,162.0,179.43,2026-03,142.2,Receita acima do limite superior do IQR
+207,2026-05-12,35,Belo Horizonte,Retirada,Novo,Burger Clássico,Pratos,6,54.9,25.0,0.0,329.4,150.0,179.4,2026-05,142.2,Receita acima do limite superior do IQR
+677,2026-03-14,166,São Paulo,Delivery,Novo,Burger Clássico,Pratos,6,54.9,25.0,0.0,329.4,150.0,179.4,2026-03,142.2,Receita acima do limite superior do IQR
+557,2026-01-10,343,Rio de Janeiro,Restaurante,Recorrente,Sobremesa Chocolate,Sobremesa,13,24.9,9.0,0.0,323.7,117.0,206.7,2026-01,142.2,Receita acima do limite superior do IQR
+184,2026-06-23,123,Belo Horizonte,Retirada,Novo,Frango Grelhado,Pratos,6,59.9,27.0,0.1,323.46,162.0,161.46,2026-06,142.2,Receita acima do limite superior do IQR
+1439,2026-01-24,260,Rio de Janeiro,Delivery,VIP,Frango Grelhado,Pratos,6,59.9,27.0,0.1,323.46,162.0,161.46,2026-01,142.2,Receita acima do limite superior do IQR
+851,2026-05-01,414,Rio de Janeiro,Delivery,VIP,Entrada Especial,Entrada,8,39.9,18.0,0.0,319.2,144.0,175.2,2026-05,142.2,Receita acima do limite superior do IQR
+39,2026-06-19,80,São Paulo,Restaurante,VIP,Prato Grelhado,Pratos,5,69.9,32.0,0.1,314.55,160.0,154.55,2026-06,142.2,Receita acima do limite superior do IQR
+252,2026-06-04,240,Belo Horizonte,Delivery,Novo,Prato Grelhado,Pratos,5,69.9,32.0,0.1,314.55,160.0,154.55,2026-06,142.2,Receita acima do limite superior do IQR
+571,2026-05-13,167,Belo Horizonte,Restaurante,VIP,Suco Natural,Bebidas,21,14.9,5.0,0.0,312.9,105.0,207.9,2026-05,142.2,Receita acima do limite superior do IQR
+1631,2026-04-18,254,Belo Horizonte,Restaurante,Novo,Salada,Pratos,8,42.9,18.0,0.1,308.88,144.0,164.88,2026-04,142.2,Receita acima do limite superior do IQR
+429,2026-02-04,310,Rio de Janeiro,Delivery,VIP,Salada,Pratos,7,42.9,18.0,0.05,285.29,126.0,159.29,2026-02,142.2,Receita acima do limite superior do IQR
+884,2026-02-22,196,Rio de Janeiro,Delivery,VIP,Frango Grelhado,Pratos,5,59.9,27.0,0.05,284.52,135.0,149.52,2026-02,142.2,Receita acima do limite superior do IQR
+1667,2026-03-30,226,Rio de Janeiro,Retirada,VIP,Prato Grelhado,Pratos,4,69.9,32.0,0.0,279.6,128.0,151.6,2026-03,142.2,Receita acima do limite superior do IQR
+473,2026-05-05,7,Rio de Janeiro,Restaurante,VIP,Prato Grelhado,Pratos,4,69.9,32.0,0.0,279.6,128.0,151.6,2026-05,142.2,Receita acima do limite superior do IQR
+1088,2026-06-09,142,São Paulo,Delivery,Recorrente,Prato Grelhado,Pratos,4,69.9,32.0,0.0,279.6,128.0,151.6,2026-06,142.2,Receita acima do limite superior do IQR
+375,2026-05-06,267,São Paulo,Delivery,Novo,Entrada Especial,Entrada,7,39.9,18.0,0.0,279.3,126.0,153.3,2026-05,142.2,Receita acima do limite superior do IQR
+1717,2026-04-25,190,Rio de Janeiro,Retirada,Recorrente,Entrada Especial,Entrada,7,39.9,18.0,0.0,279.3,126.0,153.3,2026-04,142.2,Receita acima do limite superior do IQR
+275,2026-05-07,357,Belo Horizonte,Retirada,VIP,Entrada Especial,Entrada,7,39.9,18.0,0.0,279.3,126.0,153.3,2026-05,142.2,Receita acima do limite superior do IQR
+1491,2026-05-12,67,Campinas,Retirada,VIP,Burger Clássico,Pratos,5,54.9,25.0,0.0,274.5,125.0,149.5,2026-05,142.2,Receita acima do limite superior do IQR
+45,2026-06-08,92,Campinas,Restaurante,Recorrente,Burger Clássico,Pratos,5,54.9,25.0,0.0,274.5,125.0,149.5,2026-06,142.2,Receita acima do limite superior do IQR
+106,2026-05-21,323,Belo Horizonte,Retirada,Novo,Burger Clássico,Pratos,5,54.9,25.0,0.0,274.5,125.0,149.5,2026-05,142.2,Receita acima do limite superior do IQR
+37,2026-03-09,225,Rio de Janeiro,Restaurante,Recorrente,Burger Clássico,Pratos,5,54.9,25.0,0.0,274.5,125.0,149.5,2026-03,142.2,Receita acima do limite superior do IQR
+1530,2026-04-26,391,São Paulo,Delivery,VIP,Burger Clássico,Pratos,5,54.9,25.0,0.0,274.5,125.0,149.5,2026-04,142.2,Receita acima do limite superior do IQR
+322,2026-07-24,170,Campinas,Retirada,VIP,Burger Clássico,Pratos,5,54.9,25.0,0.0,274.5,125.0,149.5,2026-07,142.2,Receita acima do limite superior do IQR
+457,2026-02-18,373,São Paulo,Delivery,Novo,Burger Clássico,Pratos,5,54.9,25.0,0.0,274.5,125.0,149.5,2026-02,142.2,Receita acima do limite superior do IQR
+1101,2026-01-08,341,Rio de Janeiro,Delivery,Novo,Burger Clássico,Pratos,5,54.9,25.0,0.0,274.5,125.0,149.5,2026-01,142.2,Receita acima do limite superior do IQR
+889,2026-05-01,259,São Paulo,Retirada,Novo,Sobremesa Chocolate,Sobremesa,11,24.9,9.0,0.0,273.9,99.0,174.9,2026-05,142.2,Receita acima do limite superior do IQR
+1315,2026-01-23,231,Rio de Janeiro,Restaurante,VIP,Frango Grelhado,Pratos,5,59.9,27.0,0.1,269.55,135.0,134.55,2026-01,142.2,Receita acima do limite superior do IQR
+1751,2026-03-05,175,Belo Horizonte,Delivery,Recorrente,Frango Grelhado,Pratos,5,59.9,27.0,0.1,269.55,135.0,134.55,2026-03,142.2,Receita acima do limite superior do IQR
+471,2026-02-03,411,Belo Horizonte,Restaurante,VIP,Entrada Especial,Entrada,7,39.9,18.0,0.05,265.33,126.0,139.33,2026-02,142.2,Receita acima do limite superior do IQR
+1093,2026-06-06,372,São Paulo,Restaurante,Recorrente,Entrada Especial,Entrada,7,39.9,18.0,0.05,265.33,126.0,139.33,2026-06,142.2,Receita acima do limite superior do IQR
+297,2026-01-09,40,Campinas,Restaurante,VIP,Burger Clássico,Pratos,5,54.9,25.0,0.05,260.77,125.0,135.77,2026-01,142.2,Receita acima do limite superior do IQR
+1273,2026-02-20,370,Rio de Janeiro,Retirada,Novo,Salada,Pratos,6,42.9,18.0,0.0,257.4,108.0,149.4,2026-02,142.2,Receita acima do limite superior do IQR
+122,2026-03-07,177,Campinas,Delivery,Novo,Suco Natural,Bebidas,18,14.9,5.0,0.05,254.79,90.0,164.79,2026-03,142.2,Receita acima do limite superior do IQR
+1175,2026-07-03,141,São Paulo,Delivery,Novo,Prato Grelhado,Pratos,4,69.9,32.0,0.1,251.64,128.0,123.64,2026-07,142.2,Receita acima do limite superior do IQR
+1356,2026-04-02,124,São Paulo,Delivery,VIP,Prato Grelhado,Pratos,4,69.9,32.0,0.1,251.64,128.0,123.64,2026-04,142.2,Receita acima do limite superior do IQR
+1296,2026-02-09,263,Belo Horizonte,Delivery,Recorrente,Prato Grelhado,Pratos,4,69.9,32.0,0.1,251.64,128.0,123.64,2026-02,142.2,Receita acima do limite superior do IQR
+722,2026-04-04,247,Rio de Janeiro,Retirada,Novo,Entrada Especial,Entrada,7,39.9,18.0,0.1,251.37,126.0,125.37,2026-04,142.2,Receita acima do limite superior do IQR
+1463,2026-02-24,227,Campinas,Retirada,Recorrente,Burger Clássico,Pratos,5,54.9,25.0,0.1,247.05,125.0,122.05,2026-02,142.2,Receita acima do limite superior do IQR
+442,2026-02-08,349,Belo Horizonte,Retirada,VIP,Frango Grelhado,Pratos,4,59.9,27.0,0.0,239.6,108.0,131.6,2026-02,142.2,Receita acima do limite superior do IQR
+961,2026-03-28,85,Rio de Janeiro,Retirada,VIP,Entrada Especial,Entrada,6,39.9,18.0,0.0,239.4,108.0,131.4,2026-03,142.2,Receita acima do limite superior do IQR
+1383,2026-04-30,297,Campinas,Retirada,Recorrente,Entrada Especial,Entrada,6,39.9,18.0,0.0,239.4,108.0,131.4,2026-04,142.2,Receita acima do limite superior do IQR
+1665,2026-02-13,15,Rio de Janeiro,Restaurante,Recorrente,Entrada Especial,Entrada,6,39.9,18.0,0.0,239.4,108.0,131.4,2026-02,142.2,Receita acima do limite superior do IQR
+370,2026-02-27,45,Rio de Janeiro,Delivery,Recorrente,Entrada Especial,Entrada,6,39.9,18.0,0.0,239.4,108.0,131.4,2026-02,142.2,Receita acima do limite superior do IQR
+534,2026-07-22,264,Campinas,Delivery,Novo,Suco Natural,Bebidas,16,14.9,5.0,0.0,238.4,80.0,158.4,2026-07,142.2,Receita acima do limite superior do IQR
+432,2026-02-14,26,Campinas,Restaurante,Novo,Frango Grelhado,Pratos,4,59.9,27.0,0.05,227.62,108.0,119.62,2026-02,142.2,Receita acima do limite superior do IQR
+200,2026-07-22,130,Belo Horizonte,Delivery,VIP,Frango Grelhado,Pratos,4,59.9,27.0,0.05,227.62,108.0,119.62,2026-07,142.2,Receita acima do limite superior do IQR
+1145,2026-05-07,264,Campinas,Retirada,Recorrente,Entrada Especial,Entrada,6,39.9,18.0,0.05,227.43,108.0,119.43,2026-05,142.2,Receita acima do limite superior do IQR
+97,2026-02-27,305,São Paulo,Restaurante,Novo,Burger Clássico,Pratos,4,54.9,25.0,0.0,219.6,100.0,119.6,2026-02,142.2,Receita acima do limite superior do IQR
+1670,2026-05-13,233,Campinas,Retirada,VIP,Burger Clássico,Pratos,4,54.9,25.0,0.0,219.6,100.0,119.6,2026-05,142.2,Receita acima do limite superior do IQR
+1575,2026-05-01,302,Belo Horizonte,Retirada,Novo,Burger Clássico,Pratos,4,54.9,25.0,0.0,219.6,100.0,119.6,2026-05,142.2,Receita acima do limite superior do IQR
+28,2026-04-29,8,São Paulo,Retirada,Novo,Frango Grelhado,Pratos,4,59.9,27.0,0.1,215.64,108.0,107.64,2026-04,142.2,Receita acima do limite superior do IQR
+388,2026-04-01,318,Campinas,Delivery,Novo,Frango Grelhado,Pratos,4,59.9,27.0,0.1,215.64,108.0,107.64,2026-04,142.2,Receita acima do limite superior do IQR
+1407,2026-05-31,289,Belo Horizonte,Delivery,Recorrente,Salada,Pratos,5,42.9,18.0,0.0,214.5,90.0,124.5,2026-05,142.2,Receita acima do limite superior do IQR
+161,2026-02-22,4,Rio de Janeiro,Delivery,Recorrente,Salada,Pratos,5,42.9,18.0,0.0,214.5,90.0,124.5,2026-02,142.2,Receita acima do limite superior do IQR
+735,2026-01-04,50,Rio de Janeiro,Retirada,VIP,Salada,Pratos,5,42.9,18.0,0.0,214.5,90.0,124.5,2026-01,142.2,Receita acima do limite superior do IQR
+539,2026-01-05,113,Belo Horizonte,Retirada,Recorrente,Salada,Pratos,5,42.9,18.0,0.0,214.5,90.0,124.5,2026-01,142.2,Receita acima do limite superior do IQR
+1167,2026-04-04,21,Rio de Janeiro,Restaurante,Novo,Salada,Pratos,5,42.9,18.0,0.0,214.5,90.0,124.5,2026-04,142.2,Receita acima do limite superior do IQR
+1213,2026-04-27,140,Campinas,Retirada,Recorrente,Salada,Pratos,5,42.9,18.0,0.0,214.5,90.0,124.5,2026-04,142.2,Receita acima do limite superior do IQR
+1713,2026-03-19,273,Campinas,Restaurante,Recorrente,Prato Grelhado,Pratos,3,69.9,32.0,0.0,209.7,96.0,113.7,2026-03,142.2,Receita acima do limite superior do IQR
+1285,2026-05-01,205,Rio de Janeiro,Delivery,Recorrente,Prato Grelhado,Pratos,3,69.9,32.0,0.0,209.7,96.0,113.7,2026-05,142.2,Receita acima do limite superior do IQR
+1056,2026-04-17,278,Campinas,Retirada,VIP,Prato Grelhado,Pratos,3,69.9,32.0,0.0,209.7,96.0,113.7,2026-04,142.2,Receita acima do limite superior do IQR
+1669,2026-07-23,303,São Paulo,Delivery,Recorrente,Prato Grelhado,Pratos,3,69.9,32.0,0.0,209.7,96.0,113.7,2026-07,142.2,Receita acima do limite superior do IQR
+1515,2026-03-07,156,Campinas,Restaurante,VIP,Prato Grelhado,Pratos,3,69.9,32.0,0.0,209.7,96.0,113.7,2026-03,142.2,Receita acima do limite superior do IQR
+1165,2026-02-21,114,Rio de Janeiro,Retirada,VIP,Prato Grelhado,Pratos,3,69.9,32.0,0.0,209.7,96.0,113.7,2026-02,142.2,Receita acima do limite superior do IQR
+1025,2026-05-09,20,São Paulo,Restaurante,Novo,Prato Grelhado,Pratos,3,69.9,32.0,0.0,209.7,96.0,113.7,2026-05,142.2,Receita acima do limite superior do IQR
+933,2026-06-06,106,Campinas,Restaurante,VIP,Prato Grelhado,Pratos,3,69.9,32.0,0.0,209.7,96.0,113.7,2026-06,142.2,Receita acima do limite superior do IQR
+553,2026-01-02,135,Belo Horizonte,Retirada,Novo,Prato Grelhado,Pratos,3,69.9,32.0,0.0,209.7,96.0,113.7,2026-01,142.2,Receita acima do limite superior do IQR
+524,2026-02-14,373,Campinas,Restaurante,Recorrente,Prato Grelhado,Pratos,3,69.9,32.0,0.0,209.7,96.0,113.7,2026-02,142.2,Receita acima do limite superior do IQR
+690,2026-02-17,140,Rio de Janeiro,Retirada,VIP,Prato Grelhado,Pratos,3,69.9,32.0,0.0,209.7,96.0,113.7,2026-02,142.2,Receita acima do limite superior do IQR
+741,2026-01-31,130,Campinas,Retirada,Novo,Prato Grelhado,Pratos,3,69.9,32.0,0.0,209.7,96.0,113.7,2026-01,142.2,Receita acima do limite superior do IQR
+758,2026-06-01,219,Campinas,Delivery,Novo,Prato Grelhado,Pratos,3,69.9,32.0,0.0,209.7,96.0,113.7,2026-06,142.2,Receita acima do limite superior do IQR
+1715,2026-06-19,195,Campinas,Restaurante,Recorrente,Burger Clássico,Pratos,4,54.9,25.0,0.05,208.62,100.0,108.62,2026-06,142.2,Receita acima do limite superior do IQR
+778,2026-02-26,376,São Paulo,Delivery,Novo,Burger Clássico,Pratos,4,54.9,25.0,0.05,208.62,100.0,108.62,2026-02,142.2,Receita acima do limite superior do IQR
+1675,2026-02-20,13,Belo Horizonte,Delivery,Novo,Salada,Pratos,5,42.9,18.0,0.05,203.77,90.0,113.77,2026-02,142.2,Receita acima do limite superior do IQR
+155,2026-06-29,36,Campinas,Restaurante,VIP,Salada,Pratos,5,42.9,18.0,0.05,203.77,90.0,113.77,2026-06,142.2,Receita acima do limite superior do IQR
+1112,2026-07-08,12,Belo Horizonte,Delivery,Recorrente,Entrada Especial,Entrada,5,39.9,18.0,0.0,199.5,90.0,109.5,2026-07,142.2,Receita acima do limite superior do IQR
+1151,2026-05-12,316,São Paulo,Delivery,Recorrente,Entrada Especial,Entrada,5,39.9,18.0,0.0,199.5,90.0,109.5,2026-05,142.2,Receita acima do limite superior do IQR
+555,2026-07-02,104,Belo Horizonte,Retirada,Recorrente,Entrada Especial,Entrada,5,39.9,18.0,0.0,199.5,90.0,109.5,2026-07,142.2,Receita acima do limite superior do IQR
+75,2026-05-29,39,Belo Horizonte,Delivery,VIP,Entrada Especial,Entrada,5,39.9,18.0,0.0,199.5,90.0,109.5,2026-05,142.2,Receita acima do limite superior do IQR
+1034,2026-07-21,201,Belo Horizonte,Delivery,Recorrente,Entrada Especial,Entrada,5,39.9,18.0,0.0,199.5,90.0,109.5,2026-07,142.2,Receita acima do limite superior do IQR
+900,2026-04-06,233,Belo Horizonte,Restaurante,VIP,Prato Grelhado,Pratos,3,69.9,32.0,0.05,199.22,96.0,103.22,2026-04,142.2,Receita acima do limite superior do IQR
+441,2026-01-17,97,Rio de Janeiro,Delivery,VIP,Sobremesa Chocolate,Sobremesa,8,24.9,9.0,0.0,199.2,72.0,127.2,2026-01,142.2,Receita acima do limite superior do IQR
+581,2026-06-11,293,Belo Horizonte,Delivery,VIP,Burger Clássico,Pratos,4,54.9,25.0,0.1,197.64,100.0,97.64,2026-06,142.2,Receita acima do limite superior do IQR
+178,2026-06-19,363,Belo Horizonte,Retirada,Novo,Burger Clássico,Pratos,4,54.9,25.0,0.1,197.64,100.0,97.64,2026-06,142.2,Receita acima do limite superior do IQR
+1417,2026-02-18,113,Campinas,Restaurante,VIP,Entrada Especial,Entrada,5,39.9,18.0,0.05,189.52,90.0,99.52,2026-02,142.2,Receita acima do limite superior do IQR
+650,2026-07-28,337,Campinas,Restaurante,Recorrente,Entrada Especial,Entrada,5,39.9,18.0,0.05,189.52,90.0,99.52,2026-07,142.2,Receita acima do limite superior do IQR
+1692,2026-05-26,103,Campinas,Delivery,Recorrente,Entrada Especial,Entrada,5,39.9,18.0,0.05,189.52,90.0,99.52,2026-05,142.2,Receita acima do limite superior do IQR
+881,2026-01-06,102,Campinas,Retirada,Novo,Entrada Especial,Entrada,5,39.9,18.0,0.05,189.52,90.0,99.52,2026-01,142.2,Receita acima do limite superior do IQR
+997,2026-06-27,321,São Paulo,Delivery,Recorrente,Prato Grelhado,Pratos,3,69.9,32.0,0.1,188.73,96.0,92.73,2026-06,142.2,Receita acima do limite superior do IQR
+463,2026-03-14,104,Campinas,Retirada,Recorrente,Prato Grelhado,Pratos,3,69.9,32.0,0.1,188.73,96.0,92.73,2026-03,142.2,Receita acima do limite superior do IQR
+1673,2026-07-27,295,Rio de Janeiro,Retirada,VIP,Prato Grelhado,Pratos,3,69.9,32.0,0.1,188.73,96.0,92.73,2026-07,142.2,Receita acima do limite superior do IQR
+978,2026-06-28,259,Belo Horizonte,Delivery,Novo,Prato Grelhado,Pratos,3,69.9,32.0,0.1,188.73,96.0,92.73,2026-06,142.2,Receita acima do limite superior do IQR
+1437,2026-04-11,155,Belo Horizonte,Delivery,VIP,Frango Grelhado,Pratos,3,59.9,27.0,0.0,179.7,81.0,98.7,2026-04,142.2,Receita acima do limite superior do IQR
+1647,2026-05-07,75,Campinas,Restaurante,Recorrente,Frango Grelhado,Pratos,3,59.9,27.0,0.0,179.7,81.0,98.7,2026-05,142.2,Receita acima do limite superior do IQR
+528,2026-06-19,229,Campinas,Retirada,VIP,Frango Grelhado,Pratos,3,59.9,27.0,0.0,179.7,81.0,98.7,2026-06,142.2,Receita acima do limite superior do IQR
+140,2026-05-31,67,São Paulo,Restaurante,Recorrente,Frango Grelhado,Pratos,3,59.9,27.0,0.0,179.7,81.0,98.7,2026-05,142.2,Receita acima do limite superior do IQR
+946,2026-03-08,191,São Paulo,Delivery,VIP,Frango Grelhado,Pratos,3,59.9,27.0,0.0,179.7,81.0,98.7,2026-03,142.2,Receita acima do limite superior do IQR
+1066,2026-01-07,341,Campinas,Restaurante,VIP,Frango Grelhado,Pratos,3,59.9,27.0,0.0,179.7,81.0,98.7,2026-01,142.2,Receita acima do limite superior do IQR
+253,2026-03-11,368,Belo Horizonte,Retirada,VIP,Frango Grelhado,Pratos,3,59.9,27.0,0.0,179.7,81.0,98.7,2026-03,142.2,Receita acima do limite superior do IQR
+230,2026-06-02,392,Campinas,Delivery,Recorrente,Suco Natural,Bebidas,12,14.9,5.0,0.0,178.8,60.0,118.8,2026-06,142.2,Receita acima do limite superior do IQR
+981,2026-01-01,42,Belo Horizonte,Delivery,Recorrente,Suco Natural,Bebidas,13,14.9,5.0,0.1,174.33,65.0,109.33,2026-01,142.2,Receita acima do limite superior do IQR
+1118,2026-01-25,304,São Paulo,Restaurante,VIP,Sobremesa Chocolate,Sobremesa,7,24.9,9.0,0.0,174.3,63.0,111.3,2026-01,142.2,Receita acima do limite superior do IQR
+1199,2026-01-27,399,São Paulo,Delivery,Novo,Salada,Pratos,4,42.9,18.0,0.0,171.6,72.0,99.6,2026-01,142.2,Receita acima do limite superior do IQR
+942,2026-01-03,279,Belo Horizonte,Restaurante,Recorrente,Salada,Pratos,4,42.9,18.0,0.0,171.6,72.0,99.6,2026-01,142.2,Receita acima do limite superior do IQR
+1045,2026-02-10,253,São Paulo,Retirada,VIP,Salada,Pratos,4,42.9,18.0,0.0,171.6,72.0,99.6,2026-02,142.2,Receita acima do limite superior do IQR
+1289,2026-01-14,169,Rio de Janeiro,Restaurante,Novo,Salada,Pratos,4,42.9,18.0,0.0,171.6,72.0,99.6,2026-01,142.2,Receita acima do limite superior do IQR
+864,2026-03-22,204,Rio de Janeiro,Delivery,VIP,Salada,Pratos,4,42.9,18.0,0.0,171.6,72.0,99.6,2026-03,142.2,Receita acima do limite superior do IQR
+1384,2026-01-21,393,Belo Horizonte,Restaurante,Novo,Salada,Pratos,4,42.9,18.0,0.0,171.6,72.0,99.6,2026-01,142.2,Receita acima do limite superior do IQR
+397,2026-05-25,20,Rio de Janeiro,Delivery,Novo,Frango Grelhado,Pratos,3,59.9,27.0,0.05,170.71,81.0,89.71,2026-05,142.2,Receita acima do limite superior do IQR
+422,2026-02-12,104,São Paulo,Delivery,VIP,Frango Grelhado,Pratos,3,59.9,27.0,0.05,170.71,81.0,89.71,2026-02,142.2,Receita acima do limite superior do IQR
+1779,2026-01-04,369,Belo Horizonte,Restaurante,VIP,Frango Grelhado,Pratos,3,59.9,27.0,0.05,170.71,81.0,89.71,2026-01,142.2,Receita acima do limite superior do IQR
+1006,2026-02-21,308,Belo Horizonte,Retirada,VIP,Frango Grelhado,Pratos,3,59.9,27.0,0.05,170.71,81.0,89.71,2026-02,142.2,Receita acima do limite superior do IQR
+1295,2026-03-29,336,Rio de Janeiro,Retirada,Recorrente,Frango Grelhado,Pratos,3,59.9,27.0,0.05,170.71,81.0,89.71,2026-03,142.2,Receita acima do limite superior do IQR
+1254,2026-01-30,4,Belo Horizonte,Delivery,Recorrente,Frango Grelhado,Pratos,3,59.9,27.0,0.05,170.71,81.0,89.71,2026-01,142.2,Receita acima do limite superior do IQR
+1185,2026-03-07,80,Campinas,Delivery,VIP,Frango Grelhado,Pratos,3,59.9,27.0,0.05,170.71,81.0,89.71,2026-03,142.2,Receita acima do limite superior do IQR
+25,2026-05-02,182,São Paulo,Restaurante,Novo,Frango Grelhado,Pratos,3,59.9,27.0,0.05,170.71,81.0,89.71,2026-05,142.2,Receita acima do limite superior do IQR
+1187,2026-04-28,332,Belo Horizonte,Retirada,VIP,Burger Clássico,Pratos,3,54.9,25.0,0.0,164.7,75.0,89.7,2026-04,142.2,Receita acima do limite superior do IQR
+129,2026-02-21,247,Rio de Janeiro,Delivery,Novo,Burger Clássico,Pratos,3,54.9,25.0,0.0,164.7,75.0,89.7,2026-02,142.2,Receita acima do limite superior do IQR
+435,2026-03-30,198,São Paulo,Retirada,Recorrente,Burger Clássico,Pratos,3,54.9,25.0,0.0,164.7,75.0,89.7,2026-03,142.2,Receita acima do limite superior do IQR
+436,2026-01-13,347,Campinas,Restaurante,VIP,Burger Clássico,Pratos,3,54.9,25.0,0.0,164.7,75.0,89.7,2026-01,142.2,Receita acima do limite superior do IQR
+801,2026-03-16,375,Rio de Janeiro,Delivery,VIP,Burger Clássico,Pratos,3,54.9,25.0,0.0,164.7,75.0,89.7,2026-03,142.2,Receita acima do limite superior do IQR
+1660,2026-07-14,49,São Paulo,Delivery,Recorrente,Burger Clássico,Pratos,3,54.9,25.0,0.0,164.7,75.0,89.7,2026-07,142.2,Receita acima do limite superior do IQR
+212,2026-02-01,342,Belo Horizonte,Retirada,Novo,Burger Clássico,Pratos,3,54.9,25.0,0.0,164.7,75.0,89.7,2026-02,142.2,Receita acima do limite superior do IQR
+540,2026-04-16,233,Rio de Janeiro,Restaurante,Novo,Burger Clássico,Pratos,3,54.9,25.0,0.0,164.7,75.0,89.7,2026-04,142.2,Receita acima do limite superior do IQR
+504,2026-07-12,229,São Paulo,Retirada,Novo,Suco Natural,Bebidas,11,14.9,5.0,0.0,163.9,55.0,108.9,2026-07,142.2,Receita acima do limite superior do IQR
+844,2026-06-18,250,Campinas,Delivery,Recorrente,Salada,Pratos,4,42.9,18.0,0.05,163.02,72.0,91.02,2026-06,142.2,Receita acima do limite superior do IQR
+1174,2026-04-18,323,Rio de Janeiro,Retirada,Recorrente,Salada,Pratos,4,42.9,18.0,0.05,163.02,72.0,91.02,2026-04,142.2,Receita acima do limite superior do IQR
+561,2026-01-30,194,Rio de Janeiro,Retirada,VIP,Salada,Pratos,4,42.9,18.0,0.05,163.02,72.0,91.02,2026-01,142.2,Receita acima do limite superior do IQR
+874,2026-01-09,171,Belo Horizonte,Delivery,VIP,Salada,Pratos,4,42.9,18.0,0.05,163.02,72.0,91.02,2026-01,142.2,Receita acima do limite superior do IQR
+704,2026-02-06,250,Rio de Janeiro,Retirada,Recorrente,Salada,Pratos,4,42.9,18.0,0.05,163.02,72.0,91.02,2026-02,142.2,Receita acima do limite superior do IQR
+338,2026-02-22,87,Rio de Janeiro,Retirada,VIP,Frango Grelhado,Pratos,3,59.9,27.0,0.1,161.73,81.0,80.73,2026-02,142.2,Receita acima do limite superior do IQR
+1797,2026-07-22,22,São Paulo,Delivery,VIP,Frango Grelhado,Pratos,3,59.9,27.0,0.1,161.73,81.0,80.73,2026-07,142.2,Receita acima do limite superior do IQR
+80,2026-03-24,313,Campinas,Delivery,Recorrente,Frango Grelhado,Pratos,3,59.9,27.0,0.1,161.73,81.0,80.73,2026-03,142.2,Receita acima do limite superior do IQR
+965,2026-02-22,311,Belo Horizonte,Retirada,Novo,Frango Grelhado,Pratos,3,59.9,27.0,0.1,161.73,81.0,80.73,2026-02,142.2,Receita acima do limite superior do IQR
+1429,2026-02-12,277,Rio de Janeiro,Retirada,Novo,Frango Grelhado,Pratos,3,59.9,27.0,0.1,161.73,81.0,80.73,2026-02,142.2,Receita acima do limite superior do IQR
+974,2026-01-22,217,Campinas,Retirada,Novo,Frango Grelhado,Pratos,3,59.9,27.0,0.1,161.73,81.0,80.73,2026-01,142.2,Receita acima do limite superior do IQR
+1494,2026-02-17,398,Campinas,Retirada,Novo,Frango Grelhado,Pratos,3,59.9,27.0,0.1,161.73,81.0,80.73,2026-02,142.2,Receita acima do limite superior do IQR
+1680,2026-06-28,38,Campinas,Restaurante,VIP,Entrada Especial,Entrada,4,39.9,18.0,0.0,159.6,72.0,87.6,2026-06,142.2,Receita acima do limite superior do IQR
+1765,2026-05-26,35,Campinas,Retirada,Recorrente,Entrada Especial,Entrada,4,39.9,18.0,0.0,159.6,72.0,87.6,2026-05,142.2,Receita acima do limite superior do IQR
+1366,2026-01-12,225,São Paulo,Restaurante,Novo,Entrada Especial,Entrada,4,39.9,18.0,0.0,159.6,72.0,87.6,2026-01,142.2,Receita acima do limite superior do IQR
+1256,2026-03-03,419,São Paulo,Restaurante,Novo,Entrada Especial,Entrada,4,39.9,18.0,0.0,159.6,72.0,87.6,2026-03,142.2,Receita acima do limite superior do IQR
+1284,2026-04-14,36,Rio de Janeiro,Restaurante,VIP,Entrada Especial,Entrada,4,39.9,18.0,0.0,159.6,72.0,87.6,2026-04,142.2,Receita acima do limite superior do IQR
+1061,2026-02-14,300,Rio de Janeiro,Restaurante,Novo,Sobremesa Chocolate,Sobremesa,7,24.9,9.0,0.1,156.87,63.0,93.87,2026-02,142.2,Receita acima do limite superior do IQR
+379,2026-02-21,239,São Paulo,Restaurante,Novo,Burger Clássico,Pratos,3,54.9,25.0,0.05,156.46,75.0,81.46,2026-02,142.2,Receita acima do limite superior do IQR
+1215,2026-04-11,245,São Paulo,Retirada,VIP,Burger Clássico,Pratos,3,54.9,25.0,0.05,156.46,75.0,81.46,2026-04,142.2,Receita acima do limite superior do IQR
+423,2026-06-10,285,São Paulo,Retirada,Novo,Burger Clássico,Pratos,3,54.9,25.0,0.05,156.46,75.0,81.46,2026-06,142.2,Receita acima do limite superior do IQR
+165,2026-03-25,55,Rio de Janeiro,Retirada,Novo,Burger Clássico,Pratos,3,54.9,25.0,0.05,156.46,75.0,81.46,2026-03,142.2,Receita acima do limite superior do IQR
+1702,2026-04-13,376,Belo Horizonte,Delivery,Recorrente,Burger Clássico,Pratos,3,54.9,25.0,0.05,156.46,75.0,81.46,2026-04,142.2,Receita acima do limite superior do IQR
+183,2026-02-11,187,Belo Horizonte,Restaurante,Novo,Burger Clássico,Pratos,3,54.9,25.0,0.05,156.46,75.0,81.46,2026-02,142.2,Receita acima do limite superior do IQR
+445,2026-03-18,66,Rio de Janeiro,Restaurante,Novo,Burger Clássico,Pratos,3,54.9,25.0,0.05,156.46,75.0,81.46,2026-03,142.2,Receita acima do limite superior do IQR
+1643,2026-05-29,92,Rio de Janeiro,Retirada,VIP,Salada,Pratos,4,42.9,18.0,0.1,154.44,72.0,82.44,2026-05,142.2,Receita acima do limite superior do IQR
+625,2026-03-07,146,São Paulo,Delivery,VIP,Sobremesa Chocolate,Sobremesa,6,24.9,9.0,0.0,149.4,54.0,95.4,2026-03,142.2,Receita acima do limite superior do IQR
+736,2026-05-17,137,Rio de Janeiro,Retirada,Recorrente,Sobremesa Chocolate,Sobremesa,6,24.9,9.0,0.0,149.4,54.0,95.4,2026-05,142.2,Receita acima do limite superior do IQR
+1340,2026-01-11,82,Belo Horizonte,Retirada,Recorrente,Sobremesa Chocolate,Sobremesa,6,24.9,9.0,0.0,149.4,54.0,95.4,2026-01,142.2,Receita acima do limite superior do IQR
+1050,2026-02-11,380,Rio de Janeiro,Restaurante,Novo,Burger Clássico,Pratos,3,54.9,25.0,0.1,148.23,75.0,73.23,2026-02,142.2,Receita acima do limite superior do IQR
+277,2026-07-01,272,Belo Horizonte,Retirada,Recorrente,Burger Clássico,Pratos,3,54.9,25.0,0.1,148.23,75.0,73.23,2026-07,142.2,Receita acima do limite superior do IQR
+1469,2026-01-08,414,Campinas,Delivery,Recorrente,Suco Natural,Bebidas,11,14.9,5.0,0.1,147.51,55.0,92.51,2026-01,142.2,Receita acima do limite superior do IQR
+1448,2026-01-30,215,Belo Horizonte,Retirada,Novo,Entrada Especial,Entrada,4,39.9,18.0,0.1,143.64,72.0,71.64,2026-01,142.2,Receita acima do limite superior do IQR
+44,2026-04-04,209,São Paulo,Restaurante,Recorrente,Entrada Especial,Entrada,4,39.9,18.0,0.1,143.64,72.0,71.64,2026-04,142.2,Receita acima do limite superior do IQR
